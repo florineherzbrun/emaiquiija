@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://maixabahw.piranhafrenzy.rocks/sitemap.xml
